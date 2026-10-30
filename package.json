@@ -81,5 +81,9 @@
     "edgedriver": false,
     "geckodriver": false,
     "fsevents": false
+  },
+  "overrides": {
+    "bplist-parser": "0.3.2",
+    "bplist-creator": "0.1.1"
   }
 }
